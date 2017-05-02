@@ -9,7 +9,7 @@ https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop
 
 The workshop will feature open discussion plus a hands-on instrument design activity, in which participants will adjust and improve the subtle details of an existing instrument design. Instruments will be provided, and no programming or circuit-building skills are required.
 
-The workshop is open to conference attendees but attendance may be limited based on the amount of available hardware. No preparation is required to attend, but if you are planning to attend, we would encourage you to contact us at nimecraft-workshop@gmail.com so we ensure adequate materials are available.
+The workshop is open to conference attendees but attendance may be limited based on the amount of available hardware. No preparation is required to attend, but if you are planning to attend, we would encourage you to contact us at `j.d.k.armitage@qmul.ac.uk` so we ensure adequate materials are available.
 
 We look forward to meeting you in Copenhagen.
 
