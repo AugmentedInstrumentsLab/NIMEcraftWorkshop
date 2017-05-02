@@ -8,15 +8,11 @@ Throughout its 16-year history, NIME has drawn on both the scientific method and
 
 Sergi Jorda coined the term digital lutherie to describe the creation of digital musical instruments (DMIs), writing in 2004:
 
-```
-Digital lutherie is in many respects very similar to music creation. It involves a great deal of different know-how and many technical and technological issues. However, like in music, there are no inviolable laws. That is to say that digital lutherie should not be considered as a science, but as a sort of craftsmanship that sometimes may produce a work of art, no less than music.
-```
+> Digital lutherie is in many respects very similar to music creation. It involves a great deal of different know-how and many technical and technological issues. However, like in music, there are no inviolable laws. That is to say that digital lutherie should not be considered as a science, but as a sort of craftsmanship that sometimes may produce a work of art, no less than music.
 
 In recent years, within the NIME paper track (known in some years’ conferences as the “scientific” program), there has been increasing emphasis on rigorous design processes and reflective, sometimes formal evaluation. This evolution is perhaps tied to increasing links between NIME and the broader domain of human-computer interaction (HCI). Jensenius and Lyons, reflecting on their NIME Reader anthology, write in 2016:
 
-```
-While a healthy respect for adhoc, improvised approaches persists, we also see individuals and groups engage in more long-term and structured development work. This work is often focused on development as process, with an acknowledgment of both formal and informal evaluation of the interfaces as an important part of this process.
-```
+>While a healthy respect for adhoc, improvised approaches persists, we also see individuals and groups engage in more long-term and structured development work. This work is often focused on development as process, with an acknowledgment of both formal and informal evaluation of the interfaces as an important part of this process.
 
 Many NIME frameworks have been proposed for design, taxonomy and evaluation. Partly due to the brevity of the NIME paper format, it is unclear the extent to which these frameworks are being actively used in the creation of new DMIs.
 
@@ -38,6 +34,8 @@ Any DMI designer, faced with the task of creating a specific instrument, must ma
 
 These practical decisions are typically not scientific: they do not contain testable hypotheses, nor can there be a generally agreed optimum solution. The decision-making process is often personal. Where these aspects appear in NIME papers, it is usually by way of giving context rather than providing transferable knowledge; a detailed discussion of how an instrument was built would be judged by many reviewers to be beyond the scope of what should appear in publication.
 
-Some exceptions to this state of affairs can be found in published reflections from longtime practitioners, such as Perry Cook’s design principles. Still, Jensenius and Lyons suggest that a space for future expansion in the NIME community would be “Nurturing ideas: many NIME papers are fairly terse and have only room to present one (or a few) core ideas of a larger picture. It would be useful to create a space in which ideas can be expanded, generating new insights, suggesting new research directions, and supporting community-building.”
+Some exceptions to this state of affairs can be found in published reflections from longtime practitioners, such as Perry Cook’s design principles. Still, Jensenius and Lyons suggest that a space for future expansion in the NIME community would be
+
+>“Nurturing ideas: many NIME papers are fairly terse and have only room to present one (or a few) core ideas of a larger picture. It would be useful to create a space in which ideas can be expanded, generating new insights, suggesting new research directions, and supporting community-building.”
 
 The purpose of this workshop is to call further attention to these factors which underlie the creation of every DMI, yet fall outside the scope of most published papers.
