@@ -1,6 +1,6 @@
 Dear all,
 
-As part of the New Interfaces for Musical Expression (NIME 2017) conference, we would like to invite you to a hands-on instrument design workshop entitled “NIMEcraft: Exploring the Subtleties of Digital Lutherie”. This half-day workshop runs 15 May 2017, 9am-12pm.
+As part of the New Interfaces for Musical Expression (NIME 2017) conference, we would like to invite you to a hands-on instrument design workshop entitled “NIMEcraft: Exploring the Subtleties of Digital Lutherie”. This half-day workshop runs in the morning of 15 May 2017.
 
 The goal of this workshop is to explore and develop the craft of digital musical instrument creation as distinct from its science and engineering aspects. In particular, we seek to identify aspects of the DMI creation and refinement process that go beyond what is published in typical conference and journal papers. These aspects might include subjective or personal aspects of a designer’s craft, subtle differences between otherwise identical instruments, or the ways in which craft knowledge can be shared and disseminated.
 
